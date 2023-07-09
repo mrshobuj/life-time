@@ -1,2 +1,2 @@
 # life-time
-This is a life time course.
+This is a lifetime course.
